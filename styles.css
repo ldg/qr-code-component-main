@@ -20,7 +20,7 @@ body {
 	width: 15.35rem; /* 240px */
 	background-color: var(--white);
 	border-radius: 0.625rem; /* 10px */
-	padding: 1.25rem; /* 20px */
+	padding: 1em; /* 16px */
 	text-align: center;
 }
 
