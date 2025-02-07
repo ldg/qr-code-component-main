@@ -21,7 +21,7 @@ A simple HTML only project for Frontend Mentor's Learning path
 
 ### Screenshot
 
-![](./qr-code-component-screenshot.png)
+![](./qr-code-component-screenshot2.png)
 
 ### Links
 

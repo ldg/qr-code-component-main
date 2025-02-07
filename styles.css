@@ -7,10 +7,13 @@
 
 body {
 	background-color: var(--slate300);
+}
+
+.main {
 	display: grid;
 	justify-content: center;
 	align-items: center;
-	height: 100vh;
+	min-height: 100vh;
 }
 
 .card {
