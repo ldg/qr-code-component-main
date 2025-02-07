@@ -21,12 +21,11 @@ A simple HTML only project for Frontend Mentor's Learning path
 
 ### Screenshot
 
-![](.images/qr-code-component-screenshot.png)
+![](./qr-code-component-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://ldg.github.io/qr-code-component-main/)
 
 ## My process
 
