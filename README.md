@@ -25,7 +25,8 @@ A simple HTML only project for Frontend Mentor's Learning path
 
 ### Links
 
-- Solution URL: [QR Code Component Solution](https://ldg.github.io/qr-code-component-main/)
+- Solution URL: [QR Code Component repo](https://github.com/ldg/qr-code-component-main)
+- Live Site URL: [QR Code Component preview](https://ldg.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -56,5 +57,4 @@ My plan is to continue working through the Learning Path projects
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@ldg](https://www.frontendmentor.io/profile/ldg)
